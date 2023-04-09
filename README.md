@@ -8,6 +8,15 @@ Graphite is a highly optimized, well balanced, general purpose keyboard layout d
 
 <img width="977" alt="Screenshot 2023-04-04 at 8 56 41 PM" src="https://user-images.githubusercontent.com/630055/229977002-af109956-c56b-406f-9f07-6e9937412ece.png">
 
+### Finger Map
+
+<img width="982" alt="Screenshot 2023-04-09 at 1 54 08 AM" src="https://user-images.githubusercontent.com/630055/230756923-cbe4adab-22e5-468e-b0ca-068d4a2a7e67.png">
+
+
+(color indicates expected fingering)
+
+### Ascii Version
+
 ```
 ~ ! @ # $ % ^ & * ( ) { }
   B L D W Z _ F O U J : + |
@@ -37,7 +46,7 @@ I was most interested in finding a layout with the following properties:
 
 In its default configuration, Oxeylyzer generates the [Sturdy](https://o-x-e-y.github.io/layouts/sturdy/index.html) layout. While the Sturdy layout is quite good, I had a few nitpicks I wanted to address. So, I forked the repo and tweaked the source code to try to filter out a few bigrams I felt were problematic, and after several attempts I found the precursor to Graphite. I was quite surprised by haw good the layout felt to my fingers in general, but I wasn’t sure how it would work in practice. Prior to this, I had created other keyboard layouts, and learned a handful of others’ layouts as well, all of which I abandoned in favor of [MTGAP](https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/) for one reason or another. I decided to learn the layout myself first (i.e. eating my own dog food) in order to work out any issues before promoting it.
 
-The layout was generated using an English corpus which did an excellent job in finding a suitable placement for all the letters and the basic layer of punctuation. I spent the next few months learning the layout and experimenting with a handful of swaps in order to see whether Oxeylyzer’s decisions were justified. In the end, I concluded that I was _not_ smarter than Oxeylyzer, and ended up reverted nearly all my swaps. However, there was a class of swaps that I knew I could do better.
+The layout was generated using an English corpus which did an excellent job in finding a suitable placement for all the letters and the basic layer of punctuation. I spent the next few months learning the layout and experimenting with a handful of swaps in order to see whether Oxeylyzer’s decisions were justified. In the end, I concluded that I was _not_ smarter than Oxeylyzer, and ended up reverting nearly all my swaps. However, there was a class of swaps that I knew I could do better.
 
 ### Punctuation
 
@@ -187,7 +196,7 @@ Sft: 0.025%
 Score: 0.072
 ```
 
-### Keybord-Design
+### Keyboard-Design
 https://keyboard-design.com/letterlayout.html?layout=graphite.en.ansi
 
 ### A200
