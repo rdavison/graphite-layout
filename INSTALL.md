@@ -11,3 +11,11 @@
 5. Go to System Settings > Keyboard Layouts
 
 6. Click the + button, and search for Graphite
+
+# Windows
+
+1. Unzip windows/Graphite.zip
+
+1. Run the unzipped setup.exe file
+
+2. On the taskbar, click on `ENG` and change the selection from `US` to `US - Graphite`
