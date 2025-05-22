@@ -32,7 +32,25 @@
    - Go to Start > Settings > Apps > Apps & features
    - Select the layout and click Uninstall
 
-## About Angle Mod?
+## Modifying the Windows Layout
+
+The `.klc` files in the `windows` folder are source files for the keyboard layouts. To modify these:
+
+1. Install Microsoft Keyboard Layout Creator (MSKLC) from the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+
+2. Open MSKLC and go to File > Load Source File
+
+3. Navigate to either:
+   - `windows/graphite.klc` for the standard layout
+   - `windows/graphmod.klc` for the angle mod version
+
+4. Make your desired modifications
+
+5. Go to Project > Build DLL and Setup Package to create a new installer
+
+Note: The `.klc` files are provided for transparency and customization. Most users should use the pre-built `.zip` installers instead.
+
+## About Angle Mod
 
 Angle mod is a keyboard layout modification that affects the bottom row of keys, shifting the key placements slightly to match the natural angle of your hands when typing. This modification can make typing more comfortable, particularly on traditional row-staggered keyboards. 
 
