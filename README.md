@@ -60,7 +60,7 @@ However, after a few days of retraining, I started to realize that `.` on pinky 
 
 So, I begrudgingly moved `.` _back_ to middle finger. Around this time, I was chatting with ec0vid on Discord, and just trying to get some ideas, and he had a great suggestion to separate `’` and `”`. Since the problem was that `.”` was more common than `.’`, I could fix the bigram scissor by moving `”` closer to `.`. So, I swapped `”` and `_`, which _completely_ solved the problem.
 
-In addition to those punctuation swaps, I also made a few more more swaps to the punctuation which I think greatly improve the experience for programmers. In programming, I found that I often had to type the following bigrams:
+In addition to those punctuation swaps, I also made a few more swaps to the punctuation which I think greatly improve the experience for programmers. In programming, I found that I often had to type the following bigrams:
 - `->`
 - `=>`
 - `|>`
