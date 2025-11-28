@@ -11,3 +11,8 @@
 5. Go to System Settings > Keyboard Layouts
 
 6. Click the + button, and search for Graphite
+
+
+# [Kanata](kanata/README.md)
+
+Just provide the configuration file to Kanata.
